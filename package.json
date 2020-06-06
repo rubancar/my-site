@@ -1,0 +1,24 @@
+{
+  "name": "learn-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "date-fns": "^2.14.0",
+    "gray-matter": "^4.0.2",
+    "next": "9.3.5",
+    "nodemailer": "^6.4.8",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "reactstrap": "^8.4.1",
+    "remark": "^12.0.0",
+    "remark-html": "^11.0.2",
+    "typed": "^0.3.3",
+    "typed.js": "^2.0.11"
+  }
+}

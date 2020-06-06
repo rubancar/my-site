@@ -1,0 +1,30 @@
+{
+  "repos": [
+    {
+      "title": "A python scrapper for Mercado Libre, pushing data to ElasticSearch",
+      "href": "https://github.com/rubancar/mercadolibre-scrapper"
+    },
+    {
+      "title": "Java functions to produce and consume data from Kafka",
+      "href": "https://github.com/rubancar/kafka-test"
+    }
+  ],
+  "videos": [
+    {
+      "image": "/images/extras/lambda_banner_my_site.png",
+      "href": "https://youtu.be/oCE8LlcHtbw",
+      "title": "Funciones Lambda (AWS): ¿Qué són y como funciona esta tecnología?",
+      "subtitle": "Características, casos de uso y como Amazon orquesta esta tecnología"
+    }
+  ],
+  "papers": [
+    {
+      "title": "Fingertip detection approach on depth image sequences for interactive projection system",
+      "href": "https://ieeexplore.ieee.org/document/7750827"
+    },
+    {
+      "title": "Metodología para extracción de tópicos relevantes de la red social Twitter",
+      "href": "http://www.rte.espol.edu.ec/index.php/tecnologica/article/view/459"
+    }
+  ]
+}

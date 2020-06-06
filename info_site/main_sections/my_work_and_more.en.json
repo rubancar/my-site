@@ -1,0 +1,74 @@
+[
+  {
+    "title": "PuntoEC",
+    "subtitle": "Fundador y director de tecnología",
+    "image": "/images/cards/punto_ec.png",
+    "description": "Empresa de software dedicada a implementación de proyectos que impulsan la transformación digital de las empresas",
+    "networks": {
+      "facebook": {
+        "href": "https://www.facebook.com/somospuntoec/"
+      },
+      "instagram": {
+        "href": "https://www.instagram.com/puntoecoficial/"
+      },
+      "www": {
+        "href": "https://www.punto-ec.com/"
+      }
+    }
+  },
+  {
+    "title": "PuntoDoc",
+    "subtitle": "Servicio de facturación electrónica",
+    "image": "/images/cards/punto_doc.jpg",
+    "description": "Servicio de facturación electrónica para Ecuador, disponible aplicación web y API para integraciones",
+    "networks": {
+      "www": {
+        "href": "https://www.puntodoc.ec/"
+      }
+    }
+  },
+  {
+    "title": "PuntoMed",
+    "subtitle": "Historia Clínica online",
+    "image": "/images/cards/punto_med.jpg",
+    "description": "Aplicación web, que permite acceder a una historia clínica completa de forma online",
+    "networks": {
+      "youtube": {
+        "href": "https://youtu.be/Vfia0QF8MCc"
+      }
+    }
+  },
+  {
+    "title": "PuntoMed",
+    "subtitle": "Historia Clínica online",
+    "image": "/images/cards/punto_med.jpg",
+    "description": "Aplicación web, que permite acceder a una historia clínica completa de forma online",
+    "networks": {
+      "youtube": {
+        "href": "https://youtu.be/Vfia0QF8MCc"
+      }
+    }
+  },
+  {
+    "title": "Makitouch",
+    "subtitle": "Herramienta colaborativa",
+    "image": "/images/cards/makitouch.jpg",
+    "description": "Herramienta colaborativa financiada por el Banco de ideas de Ecuador",
+    "networks": {
+      "www": {
+        "href": "https://www.cti.espol.edu.ec/node/14"
+      }
+    }
+  },
+  {
+    "title": "Activos / Santa Priscila",
+    "subtitle": "Sistema de gestión de activos",
+    "image": "/images/cards/santa_priscila.jpg",
+    "description": "Software para la gestión de activos, implemtando automatizaciónes, notificaciones y métricas",
+    "networks": {
+      "www": {
+        "href": "http://www.santapriscila.com/es/home.html"
+      }
+    }
+  }
+]
