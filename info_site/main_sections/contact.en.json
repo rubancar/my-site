@@ -1,0 +1,19 @@
+{
+  "name": {
+    "field": "Name",
+    "placeholder": "your name"
+  },
+  "email": {
+    "field": "Email",
+    "placeholder": "your email"
+  },
+  "subject": {
+    "field": "Subject",
+    "placeholder": "your subject"
+  },
+  "message": {
+    "field": "Message",
+    "placeholder": "leave me a message"
+  },
+  "submit": "Send message"
+}

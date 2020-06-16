@@ -1,0 +1,37 @@
+[
+  {
+    "href": "home",
+    "short_name": "Inicio",
+    "sectionName": "Inicio"
+  },
+  {
+    "href": "about",
+    "short_name": "Acerca",
+    "sectionName": "Acerca de"
+  },
+  {
+    "href": "skills",
+    "short_name": "Habilidades",
+    "sectionName": "Habilidades"
+  },
+  {
+    "href": "works",
+    "short_name": "Trabajos",
+    "sectionName": "Trabajos"
+  },
+  {
+    "href": "experience",
+    "short_name": "Experiencia",
+    "sectionName": "Experiencia laboral"
+  },
+  {
+    "href": "extras",
+    "short_name": "Extras",
+    "sectionName": "Algunos repos, mis publicaciones y más"
+  },
+  {
+    "href": "contact",
+    "short_name": "Contáctame",
+    "sectionName": "Contacto"
+  }
+]

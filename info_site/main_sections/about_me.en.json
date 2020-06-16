@@ -1,10 +1,11 @@
 {
+  "greeting": "Hello, I'm Rubén Carvajal",
   "about_me": [
-    "Experimentado desarrollador Full Stack con basta experiencia en desarrollo web, mi trabajo se han enfocado en mayor parte en el back end de las aplicaciones web, creando APIs, he realizado integraciones de todo tipo con empresas en <strong>Ecuador, Brasil y Chile,</strong> esto incluye la emisión de documentación electrónica para departamentos de hacienda en Ecuador y Brasil.",
-    "Experiencia en integración contínua, administración de ambientes Linux, Docker y manejo de herramientas en el ecosistema AWS. Título de ingeniero en ciencias computacionales con certificación internacional ABET emitido por la Escuela Superior Politécnica del Litoral en Guayaquil/Ecuador.",
-    "My stack favorito: NodeJS/AdonisJS/Express, React, MySQL, Redis, Micro-servicios, Docker con integración continua en Gitlab."
+    "Experienced Full stack developer, my work is mostly focused in the backend of applications, creating APIs, I have done integrations with companies in <strong>Ecuador, Brasil and Chile.</strong> Including the authorization of e-documents for treasury departments in Ecuador and Brazil.",
+    "Experience in continous integration, administration of Linux environments, Docker and tools from the AWS ecosystem. Bachelor of computer science issued by the Escuela Superior Politécnica del Litoral in Guayaquil, Ecuador.",
+    "My favourite stack: NodeJS/AdonisJS/Express, React, MySQL, Redis, Micro-services, Docker with continous integration."
   ],
-  "skills": [
+  "core_skills": [
     {
       "skill_name": "NodeJs / Adonis / Express",
       "skill_percentage": 80
@@ -24,6 +25,33 @@
     {
       "skill_name": "Microservicios",
       "skill_percentage": 70
+    }
+  ],
+  "general_skills": [
+    {
+      "Javascript": [
+        "NodeJS", "React", "AngularJS", "NextJS", "Adonis framework", "Express"
+      ],
+      "Apache Kafka": [],
+      "Solid experience with git": [],
+      "Experience with AWS tools": [],
+      "Advanced understanding of Linux environments": [],
+      "Shell Scripting": []
+    },
+    {
+      "Python": [
+        "Django", "Kivy Framework", "Anaconda"
+      ],
+      "Java": [
+        "Android"
+      ],
+      "C/C++": [
+        "Qt Framework", "openFramework"
+      ],
+      "PHP": [
+        "CodeIgniter"
+      ],
+      "R": []
     }
   ]
 }

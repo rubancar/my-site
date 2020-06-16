@@ -1,11 +1,20 @@
 import React from "react";
 import Typed from 'typed.js'
-import words_es from '../info_site/main_sections/words.es'
 
 class Typing extends React.Component {
+
+    constructor(props) {
+        super(props)
+    }
+
     componentDidMount() {
+
+        let my_words = ["Backend developer"]
+        if(Array.isArray(this.props.words) && this.props.words.length > 0) {
+            my_words = this.props.words
+        }
         const options = {
-            strings: words_es,
+            strings: my_words,
             typeSpeed: 40,
             backSpeed: 50,
             loop: true,

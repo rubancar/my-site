@@ -1,9 +1,9 @@
 [
   {
     "title": "PuntoEC",
-    "subtitle": "Fundador y director de tecnología",
-    "image": "/images/cards/punto_ec.png",
-    "description": "Empresa de software dedicada a implementación de proyectos que impulsan la transformación digital de las empresas",
+    "subtitle": "Founder and Chief Technology Officer",
+    "image": "/images/cards/punto_ec_img.jpg",
+    "description": "Software company committed on boosting the digital transformation of companies",
     "networks": {
       "facebook": {
         "href": "https://www.facebook.com/somospuntoec/"
@@ -18,9 +18,9 @@
   },
   {
     "title": "PuntoDoc",
-    "subtitle": "Servicio de facturación electrónica",
-    "image": "/images/cards/punto_doc.jpg",
-    "description": "Servicio de facturación electrónica para Ecuador, disponible aplicación web y API para integraciones",
+    "subtitle": "E-billing software",
+    "image": "/images/cards/punto_doc_img.jpg",
+    "description": "E-billing software, integrated with the department of Treasury from Ecuador, available as web app and API for integrations",
     "networks": {
       "www": {
         "href": "https://www.puntodoc.ec/"
@@ -29,20 +29,9 @@
   },
   {
     "title": "PuntoMed",
-    "subtitle": "Historia Clínica online",
-    "image": "/images/cards/punto_med.jpg",
-    "description": "Aplicación web, que permite acceder a una historia clínica completa de forma online",
-    "networks": {
-      "youtube": {
-        "href": "https://youtu.be/Vfia0QF8MCc"
-      }
-    }
-  },
-  {
-    "title": "PuntoMed",
-    "subtitle": "Historia Clínica online",
-    "image": "/images/cards/punto_med.jpg",
-    "description": "Aplicación web, que permite acceder a una historia clínica completa de forma online",
+    "subtitle": "Medical Records online",
+    "image": "/images/cards/punto_med_img.jpg",
+    "description": "Web application, to access medical records online",
     "networks": {
       "youtube": {
         "href": "https://youtu.be/Vfia0QF8MCc"
@@ -51,9 +40,9 @@
   },
   {
     "title": "Makitouch",
-    "subtitle": "Herramienta colaborativa",
-    "image": "/images/cards/makitouch.jpg",
-    "description": "Herramienta colaborativa financiada por el Banco de ideas de Ecuador",
+    "subtitle": "Colaborative tool",
+    "image": "/images/cards/makitouch_img.jpg",
+    "description": "Collaborative tool for classrooms, funded by Ecuadorian National Secretariat for Science and Technology",
     "networks": {
       "www": {
         "href": "https://www.cti.espol.edu.ec/node/14"
@@ -61,10 +50,10 @@
     }
   },
   {
-    "title": "Activos / Santa Priscila",
-    "subtitle": "Sistema de gestión de activos",
-    "image": "/images/cards/santa_priscila.jpg",
-    "description": "Software para la gestión de activos, implemtando automatizaciónes, notificaciones y métricas",
+    "title": "Assests / Santa Priscila",
+    "subtitle": "Assests administration software",
+    "image": "/images/cards/santa_priscila_img.jpg",
+    "description": "Software to manage the assets administration, including: automatization, notifications and metrics",
     "networks": {
       "www": {
         "href": "http://www.santapriscila.com/es/home.html"

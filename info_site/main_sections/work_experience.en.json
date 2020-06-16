@@ -2,58 +2,58 @@
   {
     "work_name": "Shippify",
     "work_location": "Guayaquil / Ecuador",
-    "work_position": "Ingeniero de APIs",
-    "work_time": "Marzo 2019 - Marzo 2020",
+    "work_position": "API Enginner",
+    "work_time": "March 2019 - March 2020",
     "description": [
-      "Migrar parte de la API de Shippify usada desde su aplicación móvil a una arquitectura AWS lambda",
-      "Implementar una arquitectura para consumir eventos en tiempo real que provienen de una base de datos, fluyen a través de Kafka y finalmente son procesados en varias funciones Lambdas",
-      "Encargado de integraciones con compañias como Amazon Brasil y Laar Courier en Ecuador"
+      "Modify Shippify's API consumed by their mobile app.",
+      "Prepare and implement an architecture to consume events coming from a Database. The data is managed through a Kafka server, and processed by Lambda functions in AWS",
+      "Integrate with companies like Amazon Brazil and Laar Courier in Ecuador",
+      "Identify and communicate solutions to clients from the SaaS product of the company"
     ]
   },
   {
     "work_name": "Soluciones Tecnológicas PuntoEC",
     "work_location": "Guayaquil / Ecuador",
-    "work_position": "Director de tecnología",
-    "work_time": "Marzo 2017 - A día de hoy",
+    "work_position": "Chief Technology Officer",
+    "work_time": "March 2017 - today",
     "description": [
-      "Analizar varias tecnología y diseñar un plan de desarrollo a seguir en cada uno de los proyectos de la empresa",
-      "Diseñar y administrar las bases de datos (MySQL)",
-      "Diseñar arquitecturas robustas y tolerante a fallos para un sistema de emisión de documentos electrónicos para el departamento de hacienda en Ecuador",
-      "Co-creador y desarrollador de software médico llamado PuntoMed",
-      "Co-creador y desarrollador de software para facturación electrónica llamado PuntoDoc"
+      "Design guidelines for every project to be implemented",
+      "Designer and administrator of databases, some of them using RDS in AWS",
+      "Design robust architectures with backups and fault tolerance for electronic documents",
+      "Co-creator and developer of medical software PuntoMed",
+      "Co-creator and developer of billing software PuntoDoc"
     ]
   },
   {
-    "work_name": "Centro de Tecnologías de la información",
+    "work_name": "Information Technology Center",
     "work_location": "Guayaquil / Ecuador",
-    "work_position": "Desarrollador",
-    "work_time": "Febrero 2016 - Marzo 2017",
+    "work_position": "Developer",
+    "work_time": "February 2016 - March 2017",
     "description": [
-      "Desarrollador senior en proyecto financiado por la secretaría de ciencia y tecnología de Ecuador llamado Makitouch",
-      "Desarrollo e implementación de un algoritmo para detección de la yema de los dedos en C++",
-      "Diseño de un prototipo de hardware usando Kinect V2 como un sensor de profundidad"
+      "Senior developer at Makitouch project, funded by Ecuadorian National Secretariat for Science and Technology",
+      "Implement a computer vision algorithm to detect fingertips",
+      "Design hardware prototypes using a Kinect V2 as depth sensor"
     ]
   },
   {
-    "work_name": "Centro de Tecnologías de la información",
+    "work_name": "Information Technology Center",
     "work_location": "Guayaquil / Ecuador",
-    "work_position": "Asistente de investigación",
-    "work_time": "Octubre 2014 - Febrero 2016",
+    "work_position": "Research Assistantship",
+    "work_time": "October 2014 - February 2016",
     "description": [
-      "Mejorar y actualizar varias proyetos del centro de investigación escritos en Java, Javascript y Python",
-      "Crear una aplicación para pantallas táctiles usando framework Kivy (Python)",
-      "Administrar y actualizar servidores web, en su mayoría basados en sistemas Linux"
+      "Improve and update projects written in Python, Java and Javascript",
+      "Create an app for large touch screens using Kivy framework (Python)",
+      "In charge of server administration, most of them based on Linux architectures"
     ]
   },
   {
     "work_name": "Escuela Superior Politécnica del Litoral (ESPOL)",
     "work_location": "Guayaquil / Ecuador",
-    "work_position": "Asistente de enseñanaza",
-    "work_time": "Marzo 2014 - Septiembre 2014",
+    "work_position": "Teaching Assistantship",
+    "work_time": "March 2014 - September 2014",
     "description": [
-      "Asistente de enseñanza para la clase de Organización y Arquitectura de Computadores de la carrera de ciencias computacionales en ESPOL",
-      "Formular y evaluar el proyecto final de la clase",
-      "Formulación y resolución de problemas para reforzar temas vistos en la clase"
+      "Resolve problems for Computers Architecture and Organization class",
+      "Formulate and evaluate the end-of-semester final project"
     ]
   }
 ]

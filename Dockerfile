@@ -2,6 +2,9 @@ FROM node:lts-alpine
 
 ENV PORT 3000
 
+# apline does't come with bash, so install one and no cache to have the image with an small size
+RUN apk add --no-cache bash
+
 # Create app directory
 RUN mkdir -p /usr/src/app
 WORKDIR /usr/src/app

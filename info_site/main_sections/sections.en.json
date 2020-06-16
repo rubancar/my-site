@@ -1,0 +1,37 @@
+[
+  {
+    "href": "home",
+    "short_name": "Home",
+    "sectionName": "Home"
+  },
+  {
+    "href": "about",
+    "short_name": "About",
+    "sectionName": "About me"
+  },
+  {
+    "href": "skills",
+    "short_name": "Skills",
+    "sectionName": "Skills"
+  },
+  {
+    "href": "works",
+    "short_name": "My work",
+    "sectionName": "My work"
+  },
+  {
+    "href": "experience",
+    "short_name": "Experience",
+    "sectionName": "Work experience"
+  },
+  {
+    "href": "extras",
+    "short_name": "A bit more",
+    "sectionName": "Repositories, publications and more"
+  },
+  {
+    "href": "contact",
+    "short_name": "Contact",
+    "sectionName": "Contact me"
+  }
+]
