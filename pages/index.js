@@ -5,8 +5,8 @@ import workExperience_es from '../info_site/main_sections/work_experience.es'
 import my_work_and_more_es from '../info_site/main_sections/my_work_and_more.es'
 import extras_es from '../info_site/main_sections/extras.es'
 import sections from '../info_site/main_sections/sections.es'
-import words from '../../info_site/main_sections/words.es'
-import contact from '../../info_site/main_sections/contact.es'
+import words from '../info_site/main_sections/words.es'
+import contact from '../info_site/main_sections/contact.es'
 
 export default function Home() {
 
