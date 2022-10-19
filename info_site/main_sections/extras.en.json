@@ -1,6 +1,6 @@
 {
   "repos": {
-    "description" : "This section show projects that I have developed recently, I do it to keep me learning as I don't use this technology in my daily work",
+    "description" : "This section show projects that I have developed recently, Just to test new technologies and to keep on the learning.",
     "list": [
       {
         "title": "A python scrapper for Mercado Libre, pushing data to ElasticSearch",
@@ -13,12 +13,24 @@
     ]
   },
   "videos": {
-    "description": "In my spare time, I publish Youtube tutorials about programming. Share the knowledge and reinforcing the learned is the objective.",
+    "description": "In my spare time, I publish Youtube tutorials about programming. The more you share, the more you learn.",
     "list": [
       {
         "image": "/images/extras/lambda_banner_my_site.png",
         "href": "https://youtu.be/oCE8LlcHtbw",
         "title": "Funciones Lambda (AWS): ¿Qué són y como funciona esta tecnología?",
+        "subtitle": "Características, casos de uso y como Amazon orquesta esta tecnología"
+      },
+      {
+        "image": "/images/extras/EC2.png",
+        "href": "https://youtu.be/dViSyZ2HCr8",
+        "title": "EC2 (Elastic Compute Service - AWS): ¿Cómo se configura y cómo se crea instancias EC2?",
+        "subtitle": "Características, casos de uso y como Amazon orquesta esta tecnología"
+      },
+      {
+        "image": "/images/extras/S3.png",
+        "href": "https://youtu.be/JU_2uDnR-Yk",
+        "title": "Amazon S3, ¿Qué es y cómo funciona esta tecnología?, con ejemplos prácticos",
         "subtitle": "Características, casos de uso y como Amazon orquesta esta tecnología"
       }
     ]

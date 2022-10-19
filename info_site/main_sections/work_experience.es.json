@@ -1,7 +1,29 @@
 [
   {
+  "work_name": "Analog Devices S.L.U.",
+  "work_location": "Valencia, España",
+  "work_place": "Ingeniero de APIs",
+  "work_time": "Enero 2022 - Actualmente",
+  "description": [
+    "Desarrollo de un dashboard de frontend para control general del sistema.",
+    "Desarrollo de APIs contenerizadas que proveen funcionalidad tanto al frontend como a varios servicios del sistema.",
+    "Despliegue y control de aplicaciones contenerizadas en Kubernetes."
+  ]
+  },
+  {
+    "work_name": "NODEL",
+    "work_location": "Guayaquil, Ecuador",
+    "work_place": "Ingeniero de APIs y datos",
+    "work_time": "Enero 2021 - Noviembre 2021",
+    "description": [
+      "Administrar procesos ETL usando Databricks.",
+      "Descarga y preprocesamiento de datos usando técnicas de scrapping y APIs de terceros.",
+      "Administrador de infraestructura en AWS."
+    ]
+  },
+  {
     "work_name": "Shippify",
-    "work_location": "Guayaquil / Ecuador",
+    "work_location": "Guayaquil, Ecuador",
     "work_place": "Ingeniero de APIs",
     "work_time": "Marzo 2019 - Marzo 2020",
     "description": [
@@ -12,9 +34,9 @@
   },
   {
     "work_name": "Soluciones Tecnológicas PuntoEC",
-    "work_location": "Guayaquil / Ecuador",
+    "work_location": "Guayaquil, Ecuador",
     "work_place": "Director de tecnología",
-    "work_time": "Marzo 2017 - A día de hoy",
+    "work_time": "Marzo 2017 - Mayo 2021",
     "description": [
       "Analizar varias tecnología y diseñar un plan de desarrollo a seguir en cada uno de los proyectos de la empresa",
       "Diseñar y administrar las bases de datos (MySQL)",
@@ -24,8 +46,8 @@
     ]
   },
   {
-    "work_name": "Centro de Tecnologías de la información",
-    "work_location": "Guayaquil / Ecuador",
+    "work_name": "Centro de Tecnologías de la información (ESPOL)",
+    "work_location": "Guayaquil, Ecuador",
     "work_place": "Desarrollador",
     "work_time": "Febrero 2016 - Marzo 2017",
     "description": [
@@ -35,8 +57,8 @@
     ]
   },
   {
-    "work_name": "Centro de Tecnologías de la información",
-    "work_location": "Guayaquil / Ecuador",
+    "work_name": "Centro de Tecnologías de la información (ESPOL)",
+    "work_location": "Guayaquil, Ecuador",
     "work_place": "Asistente de investigación",
     "work_time": "Octubre 2014 - Febrero 2016",
     "description": [
@@ -47,7 +69,7 @@
   },
   {
     "work_name": "Escuela Superior Politécnica del Litoral (ESPOL)",
-    "work_location": "Guayaquil / Ecuador",
+    "work_location": "Guayaquil, Ecuador",
     "work_place": "Asistente de enseñanaza",
     "work_time": "Marzo 2014 - Septiembre 2014",
     "description": [

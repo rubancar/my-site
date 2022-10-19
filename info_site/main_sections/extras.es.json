@@ -20,6 +20,18 @@
         "href": "https://youtu.be/oCE8LlcHtbw",
         "title": "Funciones Lambda (AWS): ¿Qué són y como funciona esta tecnología?",
         "subtitle": "Características, casos de uso y como Amazon orquesta esta tecnología"
+      },
+      {
+        "image": "/images/extras/EC2.png",
+        "href": "https://youtu.be/dViSyZ2HCr8",
+        "title": "EC2 (Elastic Compute Service - AWS): ¿Cómo se configura y cómo se crea instancias EC2?",
+        "subtitle": "Características, casos de uso y como Amazon orquesta esta tecnología"
+      },
+      {
+        "image": "/images/extras/S3.png",
+        "href": "https://youtu.be/JU_2uDnR-Yk",
+        "title": "Amazon S3, ¿Qué es y cómo funciona esta tecnología?, con ejemplos prácticos",
+        "subtitle": "Características, casos de uso y como Amazon orquesta esta tecnología"
       }
     ]
   },

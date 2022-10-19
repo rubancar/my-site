@@ -1,30 +1,30 @@
 {
   "greeting": "Hello, I'm Rubén Carvajal",
   "about_me": [
-    "Experienced Full stack developer, my work is mostly focused in the backend of applications, creating APIs, I have done integrations with companies in <strong>Ecuador, Brasil and Chile.</strong> Including the authorization of e-documents for treasury departments in Ecuador and Brazil.",
-    "Experience in continous integration, administration of Linux environments, Docker and tools from the AWS ecosystem. Bachelor of computer science issued by the Escuela Superior Politécnica del Litoral in Guayaquil, Ecuador.",
-    "My favourite stack: NodeJS/AdonisJS/Express, React, MySQL, Redis, Micro-services, Docker with continous integration."
+    "Experienced full stack developer, my work is mostly focused in applications' backend, developing APIs. I have done integrations with companies in <strong>Ecuador, Brasil and Chile.</strong> Including the authorization of e-documents for treasury departments in Ecuador and Brazil.",
+    "Experience with continous integration, administration of Linux environments, Docker, Kubernetes and tools from the AWS ecosystem. Bachelor of Computer Science issued by the Escuela Superior Politécnica del Litoral at Guayaquil/Ecuador and Master in Web Technologies and Cloud Computing by Universidad de Valencia at Valencia/Spain.",
+    "My favourite stack: NodeJS/AdonisJS/Express, React, MySQL, Redis, Micro-services, Docker and Kubernetes with continous integration."
   ],
   "core_skills": [
     {
       "skill_name": "NodeJs / Adonis / Express",
-      "skill_percentage": 80
+      "skill_percentage": 85
     },
     {
       "skill_name": "React",
-      "skill_percentage": 75
+      "skill_percentage": 70
     },
     {
       "skill_name": "MySQL",
-      "skill_percentage": 75
+      "skill_percentage": 80
     },
     {
       "skill_name": "AWS",
-      "skill_percentage": 60
+      "skill_percentage": 85
     },
     {
       "skill_name": "Microservicios",
-      "skill_percentage": 70
+      "skill_percentage": 85
     }
   ],
   "general_skills": [
@@ -33,12 +33,15 @@
         "NodeJS", "React", "AngularJS", "NextJS", "Adonis framework", "Express"
       ],
       "Apache Kafka": [],
-      "Solid experience with git": [],
-      "Experience with AWS tools": [],
       "Advanced understanding of Linux environments": [],
-      "Shell Scripting": []
+      "Shell Scripting": [],
+      "Containers": [
+        "Docker", "Docker compose", "Kubernetes"
+      ]
     },
     {
+      "Solid experience with Git": [],
+      "Experience with AWS tools": [],
       "Python": [
         "Django", "Kivy Framework", "Anaconda"
       ],

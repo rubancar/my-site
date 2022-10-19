@@ -1,38 +1,61 @@
 [
   {
+    "work_name": "Analog Devices S.L.U.",
+    "work_location": "Valencia, Spain",
+    "work_place": "APIS Enginner",
+    "work_time": "January 2022 - Currently",
+    "description": [
+      "Designing and developing a control panel using frontend technologies for a general administration of the whole system.",
+      "Developing contenerized APIS to carry functionalities to the frontend as others services inside the cluster.",
+      "Deploying and administration of applications in Kubernetes."
+
+    ]
+    },
+    {
+      "work_name": "NODEL",
+      "work_location": "Guayaquil, Ecuador",
+      "work_place": "APIS and Data Enginner",
+      "work_time": "January 2021 - November 2021",
+      "description": [
+        "In charge of ETL processes using Databricks.",
+        "Downloading and data preprocessing using scraping techniques and third party APIS.",
+        "Administrator of AWS infrastructure."
+      ]
+    },
+  {
     "work_name": "Shippify",
     "work_location": "Guayaquil / Ecuador",
     "work_position": "API Enginner",
     "work_time": "March 2019 - March 2020",
     "description": [
-      "Modify Shippify's API consumed by their mobile app.",
-      "Prepare and implement an architecture to consume events coming from a Database. The data is managed through a Kafka server, and processed by Lambda functions in AWS",
-      "Integrate with companies like Amazon Brazil and Laar Courier in Ecuador",
-      "Identify and communicate solutions to clients from the SaaS product of the company"
+      "In charge of Shippify's API consumed by their mobile app, part of the API is deployed using Lambda functions in AWS.",
+      "Designed and implemented an architecture to consume events coming from a Database. The data is managed through a Kafka server, and processed by Lambda functions in AWS.",
+      "Integration with companies such as Amazon Brazil and Laar Courier in Ecuador.",
+      "Identify and communicate solutions to clients from the SaaS product of the company."
     ]
   },
   {
-    "work_name": "Soluciones Tecnológicas PuntoEC",
-    "work_location": "Guayaquil / Ecuador",
-    "work_position": "Chief Technology Officer",
-    "work_time": "March 2017 - today",
+    "work_name": "Soluciones Tecnológicas PuntoEC.",
+    "work_location": "Guayaquil / Ecuador.",
+    "work_position": "Chief Technology Officer.",
+    "work_time": "March 2017 - May 2021.",
     "description": [
-      "Design guidelines for every project to be implemented",
-      "Designer and administrator of databases, some of them using RDS in AWS",
-      "Design robust architectures with backups and fault tolerance for electronic documents",
-      "Co-creator and developer of medical software PuntoMed",
-      "Co-creator and developer of billing software PuntoDoc"
+      "Designer of guidelines for every project implemented.",
+      "Designer and administrator of databases, some of them using RDS in AWS.",
+      "Designer of robust architectures with backups and fault tolerance for electronic documents.",
+      "Co-creator and developer of medical software PuntoMed.",
+      "Co-creator and developer of billing software PuntoDoc."
     ]
   },
   {
-    "work_name": "Information Technology Center",
-    "work_location": "Guayaquil / Ecuador",
+    "work_name": "Information Technology Center.",
+    "work_location": "Guayaquil / Ecuador.",
     "work_position": "Developer",
-    "work_time": "February 2016 - March 2017",
+    "work_time": "February 2016 - March 2017.",
     "description": [
-      "Senior developer at Makitouch project, funded by Ecuadorian National Secretariat for Science and Technology",
-      "Implement a computer vision algorithm to detect fingertips",
-      "Design hardware prototypes using a Kinect V2 as depth sensor"
+      "Senior developer at Makitouch project, funded by Ecuadorian National Secretariat for Science and Technology.",
+      "Implemented a computer vision algorithm to detect fingertips.",
+      "Designing hardware prototypes using a Kinect V2 as depth sensor."
     ]
   },
   {
@@ -41,9 +64,9 @@
     "work_position": "Research Assistantship",
     "work_time": "October 2014 - February 2016",
     "description": [
-      "Improve and update projects written in Python, Java and Javascript",
-      "Create an app for large touch screens using Kivy framework (Python)",
-      "In charge of server administration, most of them based on Linux architectures"
+      "Improved projects written in Python, Java and Javascript.",
+      "Created an app for large touch screens using Kivy framework (Python).",
+      "In charged of server administration, most of them based on Linux architectures."
     ]
   },
   {
@@ -52,8 +75,8 @@
     "work_position": "Teaching Assistantship",
     "work_time": "March 2014 - September 2014",
     "description": [
-      "Resolve problems for Computers Architecture and Organization class",
-      "Formulate and evaluate the end-of-semester final project"
+      "Resolved problems for Computers Architecture and Organization class.",
+      "Formulated and evaluated the end-of-semester final project."
     ]
   }
 ]

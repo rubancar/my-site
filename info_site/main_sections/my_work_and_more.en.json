@@ -7,12 +7,6 @@
     "networks": {
       "facebook": {
         "href": "https://www.facebook.com/somospuntoec/"
-      },
-      "instagram": {
-        "href": "https://www.instagram.com/puntoecoficial/"
-      },
-      "www": {
-        "href": "https://www.punto-ec.com/"
       }
     }
   },
@@ -34,7 +28,7 @@
     "description": "Web application, to access medical records online",
     "networks": {
       "youtube": {
-        "href": "https://youtu.be/Vfia0QF8MCc"
+        "href": "https://youtu.be/cufGMzEGrUo"
       }
     }
   },
@@ -56,7 +50,7 @@
     "description": "Software to manage the assets administration, including: automatization, notifications and metrics",
     "networks": {
       "www": {
-        "href": "http://www.santapriscila.com/es/home.html"
+        "href": "https://www.santa-priscila-admin.com/"
       }
     }
   }

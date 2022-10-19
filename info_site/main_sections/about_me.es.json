@@ -1,30 +1,30 @@
 {
   "greeting": "Hola, soy Rubén Carvajal",
   "about_me": [
-    "Experimentado desarrollador Full Stack con basta experiencia en desarrollo web, mi trabajo se han enfocado en mayor parte en el back end de las aplicaciones web, creando APIs, he realizado integraciones de todo tipo con empresas en <strong>Ecuador, Brasil y Chile,</strong> esto incluye la emisión de documentación electrónica para departamentos de hacienda en Ecuador y Brasil.",
-    "Experiencia en integración contínua, administración de ambientes Linux, Docker y manejo de herramientas en el ecosistema AWS. Título de ingeniero en ciencias computacionales con certificación internacional ABET emitido por la Escuela Superior Politécnica del Litoral en Guayaquil/Ecuador.",
-    "My stack favorito: NodeJS/AdonisJS/Express, React, MySQL, Redis, Micro-servicios, Docker con integración continua en Gitlab."
+    "Experimentado desarrollador Full Stack con basta experiencia en desarrollo web, gran parte de mi trabajo se ha enfocado en el backend de las aplicaciones web, creando APIs, he realizado integraciones de todo tipo con empresas en <strong>Ecuador, Brasil y Chile,</strong> esto incluye la emisión de documentación electrónica para departamentos de hacienda en Ecuador y Brasil.",
+    "Experiencia en integración contínua, administración de ambientes Linux, Docker, Kubernetes y manejo de herramientas en el ecosistema AWS. Título de Ingeniero en Ciencias Computacionales emitido por la Escuela Superior Politécnica del Litoral en Guayaquil/Ecuador y Máster en Tecnologías Web y Computación en la Nube por la Universidad de Valencia en España.",
+    "Mi stack favorito: NodeJS/AdonisJS/Express, React, MySQL, Redis, Micro-servicios, Docker con integración continua en Gitlab y Kubernetes."
   ],
   "core_skills": [
     {
       "skill_name": "NodeJs / Adonis / Express",
-      "skill_percentage": 80
+      "skill_percentage": 85
     },
     {
       "skill_name": "React",
-      "skill_percentage": 75
+      "skill_percentage": 70
     },
     {
       "skill_name": "MySQL",
-      "skill_percentage": 75
+      "skill_percentage": 80
     },
     {
       "skill_name": "AWS",
-      "skill_percentage": 60
+      "skill_percentage": 85
     },
     {
       "skill_name": "Microservicios",
-      "skill_percentage": 70
+      "skill_percentage": 85
     }
   ],
   "general_skills": [
@@ -34,11 +34,14 @@
       ],
       "Apache Kafka": [],
       "Experiencia sólida con Git": [],
-      "Experiencia con herramientas de AWS": [],
-      "Conocimiento avanzado de ambientes Linux": [],
-      "Shell Scripting": []
+      "Shell Scripting": [],
+      "Contenedores": [
+        "Docker", "Docker compose", "Kubernetes"
+      ]
     },
     {
+      "Experiencia con AWS": [],
+      "Conocimiento avanzado de ambientes Linux": [],
       "Python": [
         "Django", "Kivy Framework", "Anaconda"
       ],
