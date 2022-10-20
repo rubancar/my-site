@@ -1,6 +1,5 @@
 import React, {Fragment, useState, useRef, useEffect} from 'react';
 import Head from 'next/head'
-import { postAjax } from "../lib/request";
 import { Navbar, Nav, NavbarBrand, NavbarToggler, Row, Col,
     Collapse, NavItem, NavLink, Container, Progress, Card,
     CardImg, CardBody, CardTitle, CardSubtitle, CardText,
@@ -8,7 +7,8 @@ import { Navbar, Nav, NavbarBrand, NavbarToggler, Row, Col,
     CarouselIndicators, CarouselItem, Form, FormGroup, Label, Input, Button,
     Toast, ToastBody } from 'reactstrap'
 import useScrollPosition from '../hooks/useScrollPosition'
-import { FacebookIcon, InstagramIcon, WebIcon, YoutubeIcon, GithubIcon } from "../components/icons"
+import { FacebookIcon, InstagramIcon, WebIcon, YoutubeIcon, 
+    GithubIcon, LinkedinIcon, EmailIcon } from "../components/icons"
 import Typing from '../components/typing'
 
 function getPos(current) {
@@ -153,25 +153,6 @@ export default function MainLanding({words, arraySectionsOrder, extras, about_me
         setEmail('')
         setSubject('')
         setMessage('')
-    }
-
-    const hadleSubmit = (e) => {
-        e.preventDefault()
-        // example request with data object
-        postAjax('/api/send_message', { name, email, subject, message },  (err, response) => {
-            if(err) {
-                setToastStatus({"isOpen":true, "message":err})
-                return setTimeout(()=> {
-                    setToastStatus({"isOpen": false, "message":""})
-                    clearForm()
-                }, 1200)
-            }
-            setToastStatus({"isOpen":true, "message":response})
-            return setTimeout(()=> {
-                setToastStatus({"isOpen": false, "message":""})
-                clearForm()
-            }, 1200)
-        });
     }
 
     return (
@@ -461,50 +442,22 @@ export default function MainLanding({words, arraySectionsOrder, extras, about_me
                             <h2 data-animate="fadeInDown" className="title">{arraySectionsOrder[6].sectionName}</h2>
                         </header>
 
-                        <Form onSubmit={hadleSubmit} ref={refForm}>
-                            <Row form>
-                                <Col md={6}>
-                                    <FormGroup>
-                                        <Label for="name">{contact.name.field}</Label>
-                                        <Input type="name" name="name" id="name" placeholder={contact.name.placeholder} value={name} onChange={e => setName(e.target.value)} />
-                                    </FormGroup>
-                                </Col>
-                                <Col md={6}>
-                                    <FormGroup>
-                                        <Label for="email">{contact.email.field}</Label>
-                                        <Input type="email" name="email" id="email" placeholder={contact.email.placeholder} value={email} onChange={e => setEmail(e.target.value)} />
-                                    </FormGroup>
-                                </Col>
-                            </Row>
-                            <FormGroup>
-                                <Label for="subject">{contact.subject.field}</Label>
-                                <Input type="text" name="subject" id="subject" placeholder={contact.subject.placeholder} value={subject} onChange={e => setSubject(e.target.value)}/>
-                            </FormGroup>
-                            <FormGroup>
-                                <Label for="message">{contact.message.field}</Label>
-                                <Input type="textarea" name="message" id="message" placeholder={contact.message.placeholder} value={message} onChange={e => setMessage(e.target.value)}/>
-                            </FormGroup>
-                            <Row form>
-                                <Col md={6}>
-                                    <Button type="submit">{contact.submit}</Button>
-                                </Col>
-                                <Col md={6}>
-                                    <Toast isOpen={toastStatus.isOpen} color="danger" >
-                                        <ToastBody>
-                                            {toastStatus.message}
-                                        </ToastBody>
-                                    </Toast>
-                                </Col>
-                            </Row>
-
-                        </Form>
-
                         <Row>
                             <Col md={6}>
-
+                            <p>
+                                <EmailIcon style={{width:"25px", float:"left", marginRight:"10px"}}/>
+                                <a href="mailto:andrescarvajaldev@gmail.com">
+                                    andrescarvajaldev@gmail.com
+                                </a>
+                            </p>
                             </Col>
                             <Col md={6}>
-
+                            <p>
+                                <LinkedinIcon style={{width:"25px", float:"left", marginRight:"10px"}}/>
+                                <a href="https://www.linkedin.com/in/rubén-carvajal-ulloa-62aa67159" target="_blank">
+                                    Rubén Carvajal
+                                </a>
+                            </p>
                             </Col>
                         </Row>
                     </Container>

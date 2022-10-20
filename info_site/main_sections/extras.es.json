@@ -1,6 +1,6 @@
 {
   "repos": {
-    "description" : "Esta sección muestra algunos proyectos que he desarrollado últimamente, lo hago muchas veces por diversión, y por seguir aprendiendo ya que en el día a día de mi trabajo no uso esta tecnología",
+    "description" : "Esta sección muestra algunos proyectos que he desarrollado últimamente, lo hago para seguir aprendiendo y para probar nuevas tecnologías.",
     "list": [
       {
         "title": "A python scrapper for Mercado Libre, pushing data to ElasticSearch",
@@ -13,7 +13,7 @@
     ]
   },
   "videos": {
-    "description": "Cuando tengo tiempo disponible publico videos en Youtube. Compartir el conocimiento y reforzar lo aprendido es el objetivo",
+    "description": "Cuando tengo tiempo disponible publico videos en Youtube. Mientras más compartes, más aprendes.",
     "list": [
       {
         "image": "/images/extras/lambda_banner_my_site.png",
@@ -36,7 +36,7 @@
     ]
   },
   "papers": {
-    "description": "Publiqué dos artículos y lo disfruté. Espero en algún momento regresar a un centro de investigación y volver a publicar",
+    "description": "Publiqué dos artículos y lo disfruté. Espero en algún momento regresar a un centro de investigación y volver a publicar.",
     "list": [
       {
         "title": "Fingertip detection approach on depth image sequences for interactive projection system",
